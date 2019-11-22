@@ -1,0 +1,2 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_heure_sup_heure_sup,heure_sup.heure_sup,model_heure_sup_heure_sup,,1,1,1,0
